@@ -1,4 +1,4 @@
-**JSInputFormatter** is a easy way to format inputs with masks.
+**JSInputFormatter** is a easy way to format HTML inputs with masks.
 
 **Syntax:**
 
