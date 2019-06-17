@@ -1,6 +1,8 @@
 **JSInputFormatter** is a easy way to format HTML inputs with masks.
 
 **Syntax:**
+- import the JSInputFormatter.js
+- set the function below on **oninput** event to input format.
 
 **inputFormatter(event,mask)
 event:** element input event
