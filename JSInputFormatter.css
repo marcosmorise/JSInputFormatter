@@ -1,0 +1,16 @@
+/* 
+    This is a optional file to decimal format.
+    Created on : 19/11/2018, 23:44:54
+    Author     : marcos
+*/
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+}
+
+input[type=number] { 
+    text-align: right;
+}
+
